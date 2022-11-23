@@ -5,18 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc0b8e99-ebae-4165-aad5-e2a1ae8399fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_task_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_sem/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_sem/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 Знакомство с яп Java.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_sem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_GB.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_sem/HW_task_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_sem/HW_task_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_sem/HW_task_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_sem/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_sem/Task_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_sem/Task_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_sem/task_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_sem/task_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_task_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_task_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_task_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task_5.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +59,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
