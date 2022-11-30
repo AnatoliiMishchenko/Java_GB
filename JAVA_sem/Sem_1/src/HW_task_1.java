@@ -1,4 +1,4 @@
-//Вычислить n-ое треугольного число(сумма чисел от 1 до n), n! (произведение чисел от 1 до n)
+package src;//Вычислить n-ое треугольного число(сумма чисел от 1 до n), n! (произведение чисел от 1 до n)
 
 
 import java.util.Formatter;
@@ -10,6 +10,7 @@ public class HW_task_1 {
         int n = (new Scanner(System.in).nextInt());
 
         System.out.printf("сумма чисел от 1 до %d = %d,  а факториал числа %d = %d", n, Summ(n),n,Factorial(n));
+        System.out.println(String.join(",","C","r"));
 
 
     }

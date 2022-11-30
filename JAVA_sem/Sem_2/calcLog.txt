@@ -1,0 +1,8 @@
+нояб. 30, 2022 2:53:44 PM Home_work_2 logi
+INFO: 5.0/3.0=1.6666666666666667
+нояб. 30, 2022 11:30:59 PM Home_work_2 logi
+INFO: 5*5=25.0
+нояб. 30, 2022 11:31:57 PM Home_work_2 logi
+INFO: 5/5=1,00
+нояб. 30, 2022 11:32:26 PM Home_work_2 logi
+INFO: 5-1=4.0
