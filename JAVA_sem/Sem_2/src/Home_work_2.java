@@ -37,12 +37,12 @@ public class Home_work_2 {
             case ("-"):
                 ruselt = Double.parseDouble(oneNumber) - Double.parseDouble(twoNumber);
                 str = oneNumber.concat("-").concat(twoNumber).concat("=").concat(String.valueOf(ruselt));
-                //System.out.println(Double.parseDouble(oneNumber) - Double.parseDouble(twoNumber) + "\n" + end);
+
                 break;
             case ("*"):
                 ruselt = Double.parseDouble(oneNumber) * Double.parseDouble(twoNumber);
                 str = oneNumber.concat("*").concat(twoNumber).concat("=").concat(String.valueOf(ruselt));
-                //System.out.println(String.format("%.2f", (Double.parseDouble(oneNumber) * Double.parseDouble(twoNumber))) + "\n" + end);
+
                 break;
             case ("/"):
                 if (Double.parseDouble(twoNumber) == 0) {
