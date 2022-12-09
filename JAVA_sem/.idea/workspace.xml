@@ -5,66 +5,87 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc0b8e99-ebae-4165-aad5-e2a1ae8399fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Лекции/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01 Знакомство с яп Java.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sem_2/calcLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sem_2/calcLog.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sem_2/src/Home_work_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sem_2/src/Home_work_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Лекции/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Лекции/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_4/.idea/dictionaries/Anatolii.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_4/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_4/Sem_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_4/out/production/Sem_2/Home_Work_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_4/out/production/Sem_2/Home_Work_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_4/out/production/Sem_2/Home_work_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_4/out/production/Sem_2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_4/out/production/Sem_2/Sem_2_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_4/out/production/Sem_2/sem_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_4/out/production/Sem_2/sem_2_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_4/out/production/Sem_2/sem_2_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_4/out/production/Sem_3/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_4/out/production/Sem_3/Sem_4_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_4/src/Sem_4_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_5/.idea/dictionaries/Anatolii.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_5/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_5/Sem_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_5/out/production/Sem_2/Home_Work_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_5/out/production/Sem_2/Home_Work_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_5/out/production/Sem_2/Home_work_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_5/out/production/Sem_2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_5/out/production/Sem_2/Sem_2_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_5/out/production/Sem_2/sem_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_5/out/production/Sem_2/sem_2_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_5/out/production/Sem_2/sem_2_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_5/out/production/Sem_3/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_5/out/production/Sem_3/Sem_4_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem_5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/1/01 Знакомство с яп Java.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/02 Почему вы не можете не использовать API_design.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/src/L_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/src/L_3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/src/Lesson_03/Ex000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/src/Lesson_03/Ex001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/src/Lesson_03/Ex002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/src/Lesson_03/Ex003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/src/Lesson_03/Ex004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/src/Lesson_03/Ex005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/src/Lesson_03/Ex005_ArraysMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/src/Lesson_03/Ex006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/src/Lesson_03/Ex007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/src/Lesson_04/Ex000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/src/Lesson_04/Ex001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/src/Lesson_04/Ex002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/src/Lesson_04/Ex003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/src/Lesson_04/Ex004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/src/Lesson_04/Ex005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/src/Lesson_1/One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/3/03 Коллекции JAVA_ Введение.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/3/view.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/4/04 Хранение и обработка данных ч1_ приоритетные коллекции.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/out/production/Лекции/L_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/out/production/Лекции/L_3_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/out/production/Лекции/Lesson_02/Ex001_stringsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/out/production/Лекции/Lesson_02/Ex002_fileSystemDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/out/production/Лекции/Lesson_02/Ex003_tryDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/out/production/Лекции/Lesson_02/Ex004_bFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/out/production/Лекции/Lesson_02/Ex005_Logger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/out/production/Лекции/Lesson_02/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/out/production/Лекции/Lesson_03/Ex000.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/out/production/Лекции/Lesson_03/Ex001.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/out/production/Лекции/Lesson_03/Ex002.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/out/production/Лекции/Lesson_03/Ex003.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/out/production/Лекции/Lesson_03/Ex004.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/out/production/Лекции/Lesson_03/Ex005.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/out/production/Лекции/Lesson_03/Ex006.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/out/production/Лекции/Lesson_03/Ex007.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/out/production/Лекции/Lesson_1/One.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Russian.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Лекции/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Лекции/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Lesson_02/Lesson_02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Lesson_02/out/production/Lesson_02/Lesson_02/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Lesson_02/out/production/Lesson_02/Lesson_02/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Lesson_02/out/production/Lesson_02/Lesson_02/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Lesson_02/out/production/Lesson_02/Lesson_02/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Lesson_02/out/production/Lesson_02/Lesson_02/Ex001_stringsDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Lesson_02/out/production/Lesson_02/Lesson_02/Ex002_fileSystemDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Lesson_02/out/production/Lesson_02/Lesson_02/Ex003_tryDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Lesson_02/out/production/Lesson_02/Lesson_02/Ex004_bFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Lesson_02/out/production/Lesson_02/Lesson_02/Ex005_Logger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Lesson_02/out/production/Lesson_02/Lesson_02/Lesson_02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Lesson_02/out/production/Lesson_02/Lesson_02/log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/My_leson_2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/02 Почему вы не можете не использовать API_design.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/Lesson_02/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/Lesson_02/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/Lesson_02/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/Lesson_02/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/Lesson_02/Ex001_stringsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/src/Lesson_02/Ex001_stringsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/Lesson_02/Ex002_fileSystemDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/src/Lesson_02/Ex002_fileSystemDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/Lesson_02/Ex003_tryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/src/Lesson_02/Ex003_tryDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/Lesson_02/Ex004_bFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/src/Lesson_02/Ex004_bFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/Lesson_02/Ex005_Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/src/Lesson_02/Ex005_Logger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/Lesson_02/Lesson_02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/src/Lesson_02/Lesson_02.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/Lesson_02/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Лекции/2_src(все)/src/Lesson_02/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/Lesson_02/out/production/Lesson_02/Lesson_02/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/Lesson_02/out/production/Lesson_02/Lesson_02/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/Lesson_02/out/production/Lesson_02/Lesson_02/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/Lesson_02/out/production/Lesson_02/Lesson_02/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/Lesson_02/out/production/Lesson_02/Lesson_02/Ex001_stringsDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/Lesson_02/out/production/Lesson_02/Lesson_02/Ex002_fileSystemDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/Lesson_02/out/production/Lesson_02/Lesson_02/Ex003_tryDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/Lesson_02/out/production/Lesson_02/Lesson_02/Ex004_bFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/Lesson_02/out/production/Lesson_02/Lesson_02/Ex005_Logger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/Lesson_02/out/production/Lesson_02/Lesson_02/Lesson_02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/Lesson_02/out/production/Lesson_02/Lesson_02/log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/__MACOSX/._Lesson_02" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/__MACOSX/Lesson_02/._Ex001_stringsDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/__MACOSX/Lesson_02/._Ex002_fileSystemDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/__MACOSX/Lesson_02/._Ex003_tryDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/__MACOSX/Lesson_02/._Ex004_bFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/__MACOSX/Lesson_02/._Ex005_Logger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/2/Лекции/__MACOSX/Lesson_02/._log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/out/production/Лекции/Lesson_02/out/production/Lesson_02/Lesson_02/Lesson_02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Лекции/Лекции.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Лекции/Лекции.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +118,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Sem_4" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
