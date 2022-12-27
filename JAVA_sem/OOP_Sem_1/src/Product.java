@@ -1,16 +1,13 @@
 public class Product {
-    protected String name;
-    protected double cost;
+   private String name;
+    private double price;
 
-    public Product(String name, double cost) {
-        this(name);
-        this.cost = cost;
-    }
-    public Product(String name) {
+    public Product(String name, double price) {
         this.name = name;
+        this.price = price;
     }
 
-    public String getName() {
+        public String getName() {
         return name;
     }
 
@@ -18,18 +15,24 @@ public class Product {
         this.name = name;
     }
 
-    public double getCost() {
-        return cost;
+
+
+
+
+    public double getPrice() {
+        return price;
     }
 
-    public void setCost(double cost) {
-        this.cost = cost;
+    public void setPrice(double price) {
+        this.price = price;
     }
+    public  void  consume(){
+        System.out.println("Прощукт потреблен");    }
 
     @Override
     public String toString() {
         return "Товар->" +
-                " наименование: '" + name + '\'' +
-                ", цена:" + cost;
+                " наименование: " + name + "\t" +
+                ", цена: " + price;
     }
 }

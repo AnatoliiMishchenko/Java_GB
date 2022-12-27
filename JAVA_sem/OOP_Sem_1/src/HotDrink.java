@@ -1,8 +1,12 @@
-public class HotDrink extends Drink{
-    protected int temperature;
-    public HotDrink(String name, double cost, double volume,int temperature) {
-        super(name, cost,volume);
-        this.temperature=temperature;
+public class HotDrink extends Product {
+    private int temperature;
+    private double volume;
+
+
+    public HotDrink(String name, double price, double volume, int temperature) {
+        super(name, price);
+        this.temperature = temperature;
+        this.volume = volume;
     }
 
     public int getTemperature() {
@@ -13,12 +17,19 @@ public class HotDrink extends Drink{
         this.temperature = temperature;
     }
 
+    public double getVolume() {
+        return volume;
+    }
+
+    public void setVolume(double volume) {
+        this.volume = volume;
+    }
     @Override
-    public String toString() {
-        return "Горячий напиток->" +
-                "температура:" + temperature +
-                ", объем:" + volume +
-                ", наименование:'" + name + '\'' +
-                ", цена:" + cost;
+    public String toString(){
+        return "Напиток-> " +
+                "объем:  " + volume +
+                ", наименование: " + super.getName() + "\t" +
+                ", цена: " + super.getPrice() + "\t"+
+                ", температура   " + temperature;
     }
 }
